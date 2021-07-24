@@ -113,8 +113,3 @@ npm run data:import
 # Destroy data
 npm run data:destroy
 ```
-
-### Collaborators
-- [Abhuday Mishra](https://www.linkedin.com/in/abhudaym/)
-- [Rohit Singh](https://www.linkedin.com/in/rohit-singh-717b50118/)
-- [Trisha Chander](https://www.linkedin.com/in/trisha-chander-46433019b/)
