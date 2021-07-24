@@ -2,7 +2,6 @@
 
 > Built using React, Redux, NodeJS, MongoDB and Microsoft Azure <br/>
 > Deployed Here: https://prefab-msft.azurewebsites.net/ <br/>
-> Prototype For IIIT-B Bootcamp
 
 Screenshots
 ![Screenshot 2021-06-25 130242](https://user-images.githubusercontent.com/52799877/123388409-64fd0600-d5b6-11eb-9f0e-e69a9ebeba07.jpg)
